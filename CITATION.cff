@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ExeFoundry: BAT to EXE Converter (portable)"
+type: software
+abstract: >
+  ExeFoundry is a single-file Windows tool that compiles Batch (.bat) scripts
+  into portable .exe files using the built-in C# compiler (csc). It supports
+  custom icons, console/GUI mode, and argument forwarding. Open source (MIT).
+
+authors:
+  - family-names: Das
+    given-names: Sudipta Kumar
+    affiliation: American International University–Bangladesh (AIUB)
+
+license: MIT
+repository-code: "https://github.com/the-sudipta/ExeFoundry"
+url: "https://github.com/the-sudipta/ExeFoundry"
+
+keywords:
+  - windows
+  - batch
+  - bat-to-exe
+  - converter
+  - powershell
+  - csc
+  - automation
+  - portable
+  - devtools
+  - open-source
+
+version: "1.0.0"
+date-released: "2025-09-16"
+
+preferred-citation:
+  type: software
+  title: "ExeFoundry: BAT to EXE Converter (portable)"
+  authors:
+    - family-names: Das
+      given-names: Sudipta Kumar
+  version: "1.0.0"
+  date-released: "2025-09-16"
+  url: "https://github.com/the-sudipta/ExeFoundry"
